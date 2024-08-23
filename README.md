@@ -16,3 +16,5 @@ This project is a responsive shopping cart web page built using **React.js**. It
 - **Tailwind CSS**: For styling the components and ensuring a responsive design.
 - **Redux toolkit**: For state management
 - **API Integration**: For fetching product data
+
+## Screen-shorts
