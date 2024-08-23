@@ -47,3 +47,7 @@ This project is a responsive shopping cart web page built using **React.js**. It
    ```bash
    npm run dev
    ```
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
