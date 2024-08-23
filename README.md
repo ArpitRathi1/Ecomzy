@@ -18,3 +18,7 @@ This project is a responsive shopping cart web page built using **React.js**. It
 - **API Integration**: For fetching product data
 
 ## Screen-shorts
+
+![Screenshot from 2024-08-23 10-02-53](https://github.com/user-attachments/assets/831c84e3-ccd9-4867-9fe0-31bfd52d08e2)
+
+![Screenshot from 2024-08-23 10-03-04](https://github.com/user-attachments/assets/bb8db486-4660-44df-83b2-6e199e514ce1)
