@@ -22,3 +22,28 @@ This project is a responsive shopping cart web page built using **React.js**. It
 ![Screenshot from 2024-08-23 10-02-53](https://github.com/user-attachments/assets/831c84e3-ccd9-4867-9fe0-31bfd52d08e2)
 
 ![Screenshot from 2024-08-23 10-03-04](https://github.com/user-attachments/assets/bb8db486-4660-44df-83b2-6e199e514ce1)
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/shopping-cart-react.git
+   cd shopping-cart-react
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
