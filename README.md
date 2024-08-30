@@ -34,8 +34,8 @@ This project is a responsive shopping cart web page built using **React.js**. It
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ArpitRathi1/shopping-cart-react.git
-   cd shopping-cart-react
+   git clone https://github.com/ArpitRathi1/Ecomzy.git
+   cd Ecomzy
    ```
 
 2. Install dependencies:
