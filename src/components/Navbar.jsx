@@ -9,7 +9,7 @@ function Navbar() {
     <div className="flex justify-between items-center w-11/12 h-20 max-w-6xl mx-auto">
       <NavLink to="/">
         <div className="ml-5">
-          <img src="./public/logo.png" width="120px" height="50px"></img>
+          <img src="../../public/logo.png" width="120px" height="50px"></img>
         </div>
       </NavLink>
 
